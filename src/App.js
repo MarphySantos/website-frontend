@@ -9,6 +9,7 @@ import { AccountSetting } from "./components/AccountSetting/AccountSetting";
 import { Profile } from "./components/Profile/Profile";
 import { MyLearning } from "./components/MyLearning/MyLearning";
 
+//test
 function App() {
   const routes = [
     { path: "/category/:name", as: Category },
